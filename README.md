@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+<--
 **otoniel19/otoniel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p style="text-align: center">
+<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+</p>
+
+# Ola mundo 👋
+- Sou Progamador Nodejs!
+- Adoro progamar em node!
