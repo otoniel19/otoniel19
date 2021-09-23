@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
 </p>
 
-# Ola mundo 👋
+# Ola mundo! 😀
 - Sou Progamador Nodejs!
-- Adoro progamar em node!
+- Amo progamar em node!
+- nodejs e minha linguagem de programação favorita!
+- Progamo Bastante!
+# Tchau! 👋
