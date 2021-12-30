@@ -22,4 +22,8 @@ Here are some ideas to get you started:
 - Amo progamar em node!
 - nodejs e minha linguagem de programação favorita!
 - Progamo Bastante!
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otoniel19&theme=dark&hide_langs_below=1">
+
 # Tchau! 👋
+
