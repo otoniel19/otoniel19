@@ -17,12 +17,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
-<p style="text-align: right;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 # Hello World
-- I'm JavaScript and TypeScript progammer
+- I'm JavaScript // TypeScript progammer
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otoniel19&theme=dark&hide_langs_below=1">
 
