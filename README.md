@@ -13,17 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p style="text-align: center">
+<p style="text-align: center;">
 <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
 </p>
+<p style="text-align: center;">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
 
-# Ola mundo! 😀
-- Sou Progamador Nodejs!
-- Amo progamar em node!
-- nodejs e minha linguagem de programação favorita!
-- Progamo Bastante!
+# Hello World
+- I'm JavaScript and TypeScript progammer
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otoniel19&theme=dark&hide_langs_below=1">
 
-# Tchau! 👋
 
