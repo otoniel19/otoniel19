@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 <p style="text-align: center;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
 # Hello World
