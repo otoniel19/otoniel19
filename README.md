@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
-<p style="text-align: center;">
+<p style="text-align: right;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
